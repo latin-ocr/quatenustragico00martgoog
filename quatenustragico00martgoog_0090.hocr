@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quatenustragico00martgoog_0090.png"; bbox 0 0 981 1458; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 297 621 552 644">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 297 621 552 644">
+     <span class='ocr_line' id='line_1_1' title="bbox 297 621 552 644; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 297 621 381 644; x_wconf 86' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 407 621 533 643; x_wconf 84' lang='lat' dir='ltr'>TERTIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 548 630 552 643; x_wconf 84' lang='lat' dir='ltr'>z</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 113 678 619 735">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 113 678 619 735">
+     <span class='ocr_line' id='line_1_2' title="bbox 113 678 619 702; baseline 0.002 -6"><span class='ocrx_word' id='word_1_4' title='bbox 113 678 176 702; x_wconf 79' lang='lat' dir='ltr'><strong>QUAS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 189 683 261 697; x_wconf 74' lang='grc' dir='ltr'><strong>ΡΑιιτις</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 274 684 300 697; x_wconf 79' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 313 684 449 698; x_wconf 66' lang='lat' dir='ltr'><strong>fflsmmnusm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 462 686 472 696; x_wconf 62' lang='grc' dir='ltr'><em>α</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 480 678 577 697; x_wconf 79' lang='lat' dir='ltr'><strong>comedia»</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 586 684 619 697; x_wconf 76' lang='grc' dir='ltr'><strong>ΑΝΊ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 235 709 616 735; baseline 0 -7"><span class='ocrx_word' id='word_1_11' title='bbox 235 710 283 735; x_wconf 72' lang='lat' dir='ltr'><em>Vega</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 296 715 429 729; x_wconf 66' lang='lat' dir='ltr'><strong>ssffmossumm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 442 709 535 729; x_wconf 59' lang='lat' dir='ltr'><em>Celes-tina</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 548 715 616 728; x_wconf 68' lang='lat' dir='ltr'>manrr</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
